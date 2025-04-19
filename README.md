@@ -69,3 +69,7 @@ Input News	Prediction
 "Government launches new health policy..."	✅ Real
 "Aliens spotted landing in New York..."	❌ Fake
 
+Sample Interface:
+
+![image](https://github.com/user-attachments/assets/94d04064-b30c-4910-aeb8-e8babd3b5eb8)
+
