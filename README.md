@@ -53,5 +53,19 @@ This project leverages **Cloud Computing** and **Artificial Intelligence** to de
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🧪 How to Run Locally
+
+### Prerequisites:
+- AWS Account with **API Gateway**, **Lambda**, **S3**, and **CloudWatch** configured
+- **AWS CLI** and **Boto3** installed
+- **Python/Node.js** environment for backend Lambda functions
+
+📊 Sample Output
+
+Input News	Prediction
+"Government launches new health policy..."	✅ Real
+"Aliens spotted landing in New York..."	❌ Fake
 
